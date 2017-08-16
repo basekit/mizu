@@ -1,9 +1,9 @@
 {
-    "name":"Mizu",
+    "name":"Omega",
     "widgetVersion": 2,
-    "thumbnail":"mizu.png",
+    "thumbnail":"omega-screenshot.jpg",
     "pageTypes": [ "home" ],
-    "screenshot":"mizu-screenshot.jpg",
+    "screenshot":"omega-screenshot-high.jpg",
     "images":[
         "images/template-images/electronics-image-1.jpg",
         "images/template-images/electronics-image-2.jpg",
