@@ -1,9 +1,9 @@
 {
     "name":"Omega",
     "widgetVersion": 2,
-    "thumbnail":"omega-screenshot.jpg",
+    "thumbnail":"thumbnail.png",
     "pageTypes": [ "home" ],
-    "screenshot":"omega-screenshot-high.jpg",
+    "screenshot":"omega-screenshot.jpg",
     "images":[
         "images/template-images/electronics-image-1.jpg",
         "images/template-images/electronics-image-2.jpg",

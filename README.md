@@ -1,2 +1,2 @@
-# sunset
-BaseKit / Amazon.jp Sunset Template
+# Omega
+BaseKit / Amazon.jp Template
